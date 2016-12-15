@@ -31,6 +31,16 @@ $navbar-default-bg: #72342b;
   color:#72342b;
    text-shadow: 2px 0 0 #c5bca1, -2px 0 0 #c5bca1, 0 2px 0 #c5bca1, 0 -2px 0 #c5bca1, 1px 1px #c5bca1, -1px -1px 0 #c5bca1, 1px -1px 0 #c5bca1, -1px 1px 0 #c5bca1;
 }
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+.description{
+  margin:0;
+  border-bottom:1px solid #eaeaea;
+  padding-bottom:5px;
+  
+}
 .footer{
   margin-top: 45px;
   padding-top: 5px;
